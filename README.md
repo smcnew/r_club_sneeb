@@ -7,5 +7,12 @@ Options:
 2. Dryad or Figshare
 3. Github repo with raw data and code
 4. Github repo with raw data, code, and intermediate files
-5. Github repo + Zenodo DOI 
+5. Github repo + Zenodo DOI
+https://guides.github.com/activities/citable-code/
+
+### Where to hide the skeletons
+* Use .gitignore
+** Add (big) files or folders to git ignore and they won't sync
+
+Resources: https://carpentries-incubator.github.io/git-Rstudio-course/02-ignore/index.html
 
