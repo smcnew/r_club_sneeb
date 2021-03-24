@@ -9,3 +9,7 @@ drive_find(n_max = 30) # list the files in my google drive
 drive_find(type = "spreadsheet")
 drive_download("Testthisspreadsheet", type = "csv", overwrite = T)
 dat <-  read.csv("Testthisspreadsheet.csv")
+dat
+pdf("testplot.pdf")
+plot(bird ~ measurement, dat)
+dev.off()
