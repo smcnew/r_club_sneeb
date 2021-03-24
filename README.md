@@ -15,4 +15,5 @@ https://guides.github.com/activities/citable-code/
 ** Add (big) files or folders to git ignore and they won't sync
 
 Resources: https://carpentries-incubator.github.io/git-Rstudio-course/02-ignore/index.html
-
+How to remove files that were already uploaded to github: 
+https://itnext.io/how-to-remove-files-already-added-to-git-after-you-update-gitignore-90f169a0a4e1
